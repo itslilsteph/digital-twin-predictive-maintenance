@@ -14,3 +14,11 @@ The system uses an embedded platform to perform real-time signal processing and 
 - Web Dashboard
 - Testing & Results
 - Reflection & Future Work
+
+## Project Blog
+- [Problem Definition](posts/problem-definition.md)
+- [System Architecture](posts/system-architecture.md)
+- [Sensor Selection](posts/sensors.md)
+- [Signal Processing & FFT](posts/signal-processing.md)
+- [Web Dashboard](posts/dashboard.md)
+- [Testing & Results](posts/results.md)
